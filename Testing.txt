@@ -1,3 +1,2 @@
 Editing this file, to make some further changes.
-Modifying this file in develop branch.
-Changing again for 3-way-merge!
+Modifying for Changing again for 3-way-merge!
